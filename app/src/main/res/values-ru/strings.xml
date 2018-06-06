@@ -33,11 +33,11 @@
     <string name="abbreviation_unit_milliseconds" msgid="8700286094028323363">"<xliff:g id="MILLISECONDS">%s</xliff:g> мс"</string>
     <string name="settings_system_default" msgid="6268225104743331821">"По умолчанию"</string>
     <string name="auto_cap" msgid="1719746674854628252">"Заглавные автоматически"</string>
-    <string name="auto_cap_summary" msgid="7934452761022946874">"Писать первое слово предложения с прописной буквы"</string>
+    <string name="auto_cap_summary" msgid="7934452761022946874">"Писать первое слово предложения с заглавной буквы"</string>
     <string name="language_selection_title" msgid="3666971864764478269">"Выберите язык"</string>
     <string name="select_language" msgid="5709487854987078367">"Язык"</string>
-    <string name="subtype_en_GB" msgid="88170601942311355">"английский (Великобритания)"</string>
-    <string name="subtype_en_US" msgid="6160452336634534239">"английский (США)"</string>
+    <string name="subtype_en_GB" msgid="88170601942311355">"Английский (Великобритания)"</string>
+    <string name="subtype_en_US" msgid="6160452336634534239">"Английский (США)"</string>
     <string name="subtype_es_US" msgid="5583145191430180200">"Испанский (США)"</string>
     <string name="subtype_sr_ZZ" msgid="9059219552986034343">"Сербский (латиница)"</string>
     <string name="subtype_generic_traditional" msgid="8584594350973800586">"<xliff:g id="LANGUAGE_NAME">%s</xliff:g> (классическая)"</string>
@@ -49,6 +49,10 @@
     <string name="add" msgid="8299699805688017798">"Добавить"</string>
     <string name="remove" msgid="4486081658752944606">"Удалить"</string>
     <string name="save" msgid="7646738597196767214">"Сохранить"</string>
+    <string name="keyboard_theme_holo_white" translatable="false">Холо светлая</string>																					 
+    <string name="keyboard_theme_holo_blue" translatable="false">Холо синяя</string>																				   
+    <string name="keyboard_theme_material_dark" translatable="false">Материальная тёмная</string>																						   
+    <string name="keyboard_theme_material_light" translatable="false">Материальная светлая</string>																							 
     <string name="subtype_locale" msgid="8576443440738143764">"Язык"</string>
     <string name="keyboard_layout_set" msgid="4309233698194565609">"Раскладка"</string>
     <string name="custom_input_style_note_message" msgid="8826731320846363423">"Необходимо включить персонализированный стиль ввода."</string>
@@ -57,6 +61,12 @@
     <string name="custom_input_style_already_exists" msgid="8008728952215449707">"Такой стиль ввода уже существует: <xliff:g id="INPUT_STYLE_NAME">%s</xliff:g>"</string>
     <string name="prefs_keypress_vibration_duration_settings" msgid="7918341459947439226">"Вибросигнал при нажатии клавиш"</string>
     <string name="prefs_keypress_sound_volume_settings" msgid="6027007337036891623">"Звук при нажатии клавиш"</string>
-    <string name="prefs_key_longpress_timeout_settings" msgid="6102240298932897873">"Долгое нажатие"</string>
+    <string name="prefs_key_longpress_timeout_settings" msgid="6102240298932897873">"Длительность долгого нажатия"</string>
     <string name="button_default" msgid="3988017840431881491">"По умолчанию"</string>
+    <string translatable="false" name="prefs_keyboard_height_settings">Высота клавиатуры</string>																							   
+    <string translatable="false" name="keyboard_color">Установить пользовательский цвет клавиатуры</string>																						 
+    <string translatable="false" name="hide_special_chars">Скрыть специальные символы</string>
+    <string translatable="false" name="hide_language_switch_key">Скрыть клавишу переключения языка</string>
+    <string translatable="false" name="show_number_row">Показать ряд цифр</string>
+    <string translatable="false" name="show_arrow_keys">Показать клавиши со стрелками навигации</string>
 </resources>
